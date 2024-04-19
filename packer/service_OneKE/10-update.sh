@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+###
 
 # Install required packages and upgrade the distro.
 
